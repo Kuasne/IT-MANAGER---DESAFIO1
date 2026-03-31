@@ -10,7 +10,7 @@ Acabei de subir nesta página os arquivos da apresentação de entrega:
 
   
 
-- **[Slides - Visualização Online](https://github.com/Kuasne/IT-MANAGER---DESAFIO1/blob/main/Operational.pdf))**  
+- **[Slides - Visualização Online](https://github.com/Kuasne/IT-MANAGER---DESAFIO1/blob/main/Operational.pdf)**  
  
 
 ---
